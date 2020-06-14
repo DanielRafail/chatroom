@@ -1,0 +1,30 @@
+#main_body{
+  margin-left: 40%;
+  margin-top: 8%;
+  width: 300px;
+  padding: 4%;
+  background-color: white;
+}
+#error{
+  color: red;
+}
+
+.inputFalse{
+  border: 2px solid red;
+}
+p{
+    margin: 5px;
+}
+
+#login {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+strong{
+  color:red;
+}
+
+#login{
+  padding: 5px;
+}
